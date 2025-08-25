@@ -16,8 +16,8 @@
 ---
 
 ## 📫 Connect with Me  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)  
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sushilkumar-utkekar-86064323a/)  
+- GitHub: [Your GitHub Profile](https://github.com/Sushilkumar5572)  
 
 ---
 
